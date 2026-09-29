@@ -1,0 +1,14 @@
+# --- Backend Spring Boot ---
+**/target/
+**/.idea/
+**/.mvn/
+*.log
+
+# --- Frontend Angular (Para quando criar) ---
+**/node_modules/
+**/dist/
+**/.angular/
+
+# --- Arquivos de Sistema/IDE ---
+.vscode/
+*.DS_Store
